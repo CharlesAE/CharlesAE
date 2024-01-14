@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is Charles, I am a software developer, specializing in mobile and full stack web development.
+### Hi there 👋 My Name is Charles, I am a software developer, specializing in iOS and Web development.
 
 
 <h1 align="center">
