@@ -1,30 +1,20 @@
-### Hi there 👋 My Name is Charles, I am a software developer, specializing in iOS and Web development.
-
-
-<h1 align="center">
-✨ Where you can find me ✨
-  
-  <p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/charlesae/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+<h1 align="center">Charles Edwards</h1>
+<h3 align="center"> Software Engineer @ TickeTing Inc</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/charlesae">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20">
   </a>
-
-
-<br/>
+  <a href="https://x/CharlesAE_Dev">
+    <img src="https://img.shields.io/twitter/follow/CharlesAE_Dev" alt="X (formerly Twitter) Follow" height="20">
+  </a>
   <a href="https://stackoverflow.com/users/4770528/charlesae">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>
-  
-  <br/>
-  <a href="https://twitter.com/CharlesAE_Dev">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">  
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="20">
   </a>
 </p>
-</h1>
 
-## <strong>My Tech Stack</strong>
+<div align="center">
 
+<h3 align="center"><strong>Tech Stack</strong></h3>
 <a href="https://www.swift.org/">
 <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
 </a>
@@ -52,19 +42,4 @@
 <a href="https://vitejs.dev/">
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 </a>
-
-
-<!--
-**CharlesAE/CharlesAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
