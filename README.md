@@ -1,5 +1,5 @@
 <h1 align="center">Charles Edwards</h1>
-<h3 align="center"> Software Engineer @ TickeTing Inc</h3>
+<h3 align="center"> Software Engineer @ <a href="https://github.com/ticketingevents">TickeTing Inc</a></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/charlesae">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20">
